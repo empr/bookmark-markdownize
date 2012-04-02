@@ -1,4 +1,4 @@
-# Foo
+# bookmark-markdownize
 
 bookmark-markdownize is Google Chrome Extension that show bookmarks with markdown.
 
