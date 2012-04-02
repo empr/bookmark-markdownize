@@ -1,0 +1,10 @@
+{
+  "name": "Bookmark Markdownize",
+  "description": "Show bookmarks with markdown",
+  "version": "0.1",
+  "permissions": ["bookmarks"],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  } 
+}
